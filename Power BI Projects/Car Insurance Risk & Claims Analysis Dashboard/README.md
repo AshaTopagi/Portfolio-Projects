@@ -136,6 +136,5 @@ This dataset includes:
 ## 🤝 Connect With Me
 I love collaborating on BI, data engineering, and analytics projects.
 
-- **LinkedIn:** https://www.linkedin.com/in/asha-topagi  
-- **Email:** asha.topagi@example.com
+[LinkedIn](https://www.linkedin.com/in/ashatopagi)  |  [Email](mailto:asha.usa3@gmail.com)
 
