@@ -113,6 +113,11 @@ This dataset includes:
 
 ---
 
+### Insurance Risk & Claims Analysis – Power BI Dashboard
+<img src="./CarInsurance.jpg" alt="Insurance Risk & Claims Analysis – Power BI Dashboard" width="700">
+
+---
+
 ## 📁 Project Files
 - Power BI Report (`.pbix`)  
 - Dataset (`.csv` / `.xlsx`)  
