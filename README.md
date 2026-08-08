@@ -1,2 +1,2 @@
 # Portfolio-Projects
-This repository is for portfolio projects and documentation
+This repository is used for documenting portfolio projects
