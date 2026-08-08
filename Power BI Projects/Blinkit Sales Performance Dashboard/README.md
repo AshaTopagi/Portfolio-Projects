@@ -89,6 +89,11 @@ Supermarket Type1 leads across all KPIs.
 
 ---
 
+### Blinkit Sales Performance Dashboard Layout
+<img src="./Images/ReportLayout.jpg" alt="Blinkit Sales Performance Dashboard" width="700">
+
+---
+
 ## 📁 Project Files
 - Power BI Report (`.pbix`)  
 - Dataset (`.csv` / `.xlsx`)  
@@ -108,6 +113,7 @@ Supermarket Type1 leads across all KPIs.
 **Asha Topagi**  
 Toronto, Canada
 
+---
 🤝 **Connect With Me**
 
 I love collaborating on BI, data engineering, and analytics projects. 
