@@ -19,6 +19,7 @@ A retail analytics solution exploring:
 
 Built using DAX, star-schema modeling, and interactive visuals. It provides actionable insights for business stakeholders to optimize product strategy, outlet operations, and customer satisfaction.
 
+Additional details can be found [here](https://github.com/AshaTopagi/Portfolio-Projects/tree/main/Blinkit-Sales-Performance-Dashboard)
 
 ---
 
@@ -33,6 +34,8 @@ An insurance analytics dashboard covering:
 - Education & marital status segmentation  
 
 This report helps identify high-risk segments and supports data-driven underwriting decisions.
+
+Additional details can be found [here](https://github.com/AshaTopagi/Portfolio-Projects/tree/main/Car-Insurance-Risk-%26-Claims-Analysis-Dashboard)
 
 ---
 
