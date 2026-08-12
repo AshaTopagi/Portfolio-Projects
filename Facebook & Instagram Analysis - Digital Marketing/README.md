@@ -1,4 +1,4 @@
-# Meta Ad Performance Analysis – Power BI Dashboard
+# Digital Marketing - Meta Ad Performance Analysis Dashboard
 
 ![Domain](https://img.shields.io/badge/Domain-Digital%20Marketing-000000)
 
