@@ -74,7 +74,7 @@ Additional details can be found [here](https://github.com/AshaTopagi/Portfolio-P
 I love collaborating on BI, data engineering, and analytics projects. 
 Feel free to reach out or connect:
 
-[LinkedIn](www.linkedin.com/in/ashatopagi)  |  [Email](asha.usa3@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ashatopagi)   |  [Email](asha.usa3@gmail.com)
 
 Always learning, always building.  
 **#PowerBI #DataAnalytics #BusinessIntelligence #Portfolio**
